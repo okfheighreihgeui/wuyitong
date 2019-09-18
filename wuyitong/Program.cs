@@ -10,6 +10,8 @@ namespace wuyitong
     {
         static void Main(string[] args)
         {
+            string message = "hello world";
+            Console.WriteLine(message);
         }
     }
 }
